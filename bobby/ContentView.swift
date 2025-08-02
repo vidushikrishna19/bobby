@@ -19,6 +19,8 @@
                         EmojiView(symbol: "👀", size: 87, x: 0,  y: -137)
                         EmojiView(symbol: "👄", size: 50, x: 0,  y: -110)
                         EmojiView(symbol: "🥜", size: 50, x: 0,  y: -0)
+                        EmojiView(symbol: "👟", size: 87, x: 56,  y: -00)
+                        
                         
                     }
                     .frame(width: 200, height: 320)
